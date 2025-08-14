@@ -1,4 +1,17 @@
+## 🚲 Cyclistic Bike-Share Analysis (07/2024 - 06/2025)
 
+## 📌 Giới thiệu
+Dự án phân tích dữ liệu dịch vụ **Cyclistic Bike-Share** tại Chicago trong giai đoạn **07/2024 - 06/2025**, nhằm so sánh hành vi giữa **Member** và **Casual** để đề xuất chiến lược tăng tỷ lệ thành viên.
+
+📊 [Xem báo cáo trực tiếp (GitHub Pages)](https://binhphan-da.github.io/Cyclistic_BikeShare-_Analysis_06_2025/)  
+💻 [Xem toàn bộ code & dữ liệu](https://github.com/BinhPhan-DA/Cyclistic_BikeShare-_Analysis_06_2025)
+
+---
+
+## 🎯 Mục tiêu phân tích
+- So sánh hành vi giữa **member** và **casual**.
+- Phân tích xu hướng sử dụng theo thời gian, loại xe, địa điểm.
+- Đề xuất chiến dịch marketing nhằm chuyển đổi casual thành member.
 ---
 
 ## 📊 Quy trình thực hiện
@@ -68,3 +81,4 @@ Báo cáo chi tiết kèm biểu đồ được lưu tại:
 - **Phan Bá Bình**  
 📧 Email: [binhphanit2109@gmail.com]  
 🔗 GitHub: [https://github.com/BinhPhan-DA](https://github.com/BinhPhan-DA)
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/b%C3%ACnh-phan-aa4600350/) 
